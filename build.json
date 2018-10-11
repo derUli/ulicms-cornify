@@ -1,0 +1,7 @@
+{
+	"id": "cornify",
+	"version": "1.2",
+	"description": "Adds Cornify (cornify.com) to your WordPress. After five seconds of inactivity the site will show unicorns to the visitor until they interact with the site again. This was developed primarily as an April fools joke.",
+	"categories": [],
+	"compatible_from": "2018.4"
+}
